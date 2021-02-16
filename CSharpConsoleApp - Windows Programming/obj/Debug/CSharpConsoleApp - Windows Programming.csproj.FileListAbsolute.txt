@@ -1,0 +1,7 @@
+C:\Users\Khishigdelger\source\repos\CSharpConsoleApp - Windows Programming\bin\Debug\CSharpConsoleApp - Windows Programming.exe.config
+C:\Users\Khishigdelger\source\repos\CSharpConsoleApp - Windows Programming\bin\Debug\CSharpConsoleApp - Windows Programming.exe
+C:\Users\Khishigdelger\source\repos\CSharpConsoleApp - Windows Programming\bin\Debug\CSharpConsoleApp - Windows Programming.pdb
+C:\Users\Khishigdelger\source\repos\CSharpConsoleApp - Windows Programming\obj\Debug\CSharpConsoleApp - Windows Programming.csprojAssemblyReference.cache
+C:\Users\Khishigdelger\source\repos\CSharpConsoleApp - Windows Programming\obj\Debug\CSharpConsoleApp - Windows Programming.csproj.CoreCompileInputs.cache
+C:\Users\Khishigdelger\source\repos\CSharpConsoleApp - Windows Programming\obj\Debug\CSharpConsoleApp - Windows Programming.exe
+C:\Users\Khishigdelger\source\repos\CSharpConsoleApp - Windows Programming\obj\Debug\CSharpConsoleApp - Windows Programming.pdb
