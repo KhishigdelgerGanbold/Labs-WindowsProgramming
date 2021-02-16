@@ -6,14 +6,17 @@ using System.Threading.Tasks;
 
 namespace Khishigdelger
 {
-    class Task1
+    namespace Lab1
     {
-        private string name; // Private field
-        public string NameValue // NameValue - g ashiglan private field - iin utgiig oorchlono.
+        class Task1
         {
-            get { return name; }
-            set { name = value; }
-        }
+            private string name; // Private field
+            public string NameValue // NameValue - g ashiglan private field - iin utgiig oorchlono.
+            {
+                get { return name; }
+                set { name = value; }
+            }
 
+        }
     }
 }
