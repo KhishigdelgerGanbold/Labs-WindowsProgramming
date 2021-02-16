@@ -10,7 +10,7 @@ namespace CSharpConsoleApp___Windows_Programming
     {
         static void Main(string[] args)
         {
-            Khishigdelger.Task1 myObj = new Khishigdelger.Task1();
+            Khishigdelger.Lab1.Task1 myObj = new Khishigdelger.Lab1.Task1();
             Console.WriteLine("Enter your username: ");
             myObj.NameValue = Console.ReadLine();
             Console.WriteLine(myObj.NameValue);
